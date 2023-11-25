@@ -1,0 +1,137 @@
+﻿Nombre;Apellido;Destino;Sexo;Hotel;Transporte;Valor Destino;Descuento
+Marcela;Agudelo;Cartagena;Femenino;Decameron;Aereo;$ 1.400.000; $ 210.000 
+Andrea;Mebarak;Cartagena;Femenino;Decameron;Aereo;$ 1.350.000; $ 202.500 
+Ricardo;Mebarak;Santa Marta;Masculino;Hilton;Aereo;$ 1.000.000; $ 150.000 
+Mónica;Bisbal;Amazonas;Femenino;La Selva;Aereo;$ 1.800.000; $ 270.000 
+Laura;Bisbal;Eje Cafetero;Femenino;Las Orquideas;Aereo;$ 1.520.000; $ 228.000 
+Juan;Agudelo;Amazonas;Masculino;El delfin rosado;Aereo;$ 1.600.000; $ 240.000 
+David;López;San Andrés;Masculino;Mar Azul;Aereo;$ 1.600.000; $ 240.000 
+David;López;Eje Cafetero;Masculino;Finca Calarca;Terrestre;$ 950.000; $ 76.000 
+David;Henao;San Andrés;Masculino;Toné;Aereo;$ 900.000; $ 135.000 
+Angela;López;Nuqui;Femenino;Las Ballenas;Aereo;$ 1.100.000; $ 165.000 
+Veronica;Henao;San Andrés;Femenino;Mar Azul;Aereo;$ 1.200.000; $ 180.000 
+Luisa;Pérez;Eje Cafetero;Femenino;Las Orquideas;Aereo;$ 1.550.000; $ 232.500 
+Laura;Curiel;Santa Marta;Femenino;Hilton;Aereo;$ 950.000; $ 142.500 
+Jorge;Valencia;Nuqui;Masculino;Sol y Mar;Aereo;$ 850.000; $ 127.500 
+David;Bisbal;Cartagena;Masculino;Costa del Sol;Terrestre;$ 750.000; $ 60.000 
+David;Agudelo;Nuqui;Masculino;Las Ballenas;Aereo;$ 1.000.000; $ 150.000 
+Carlos;Bisbal;Nuqui;Masculino;Sol y Mar;Aereo;$ 950.000; $ 142.500 
+Bibiana;Pérez;Eje Cafetero;Femenino;Finca Calarca;Terrestre;$ 600.000; $ 48.000 
+Bibiana;Bisbal;San Andrés;Femenino;Mar Azul;Aereo;$ 1.000.000; $ 150.000 
+Alberto;Montoya;Eje Cafetero;Masculino;Las Orquideas;Aereo;$ 1.350.000; $ 202.500 
+Ricardo;Montoya;San Andrés;Masculino;Toné;Aereo;$ 950.000; $ 142.500 
+Pedro;Montoya;Cartagena;Masculino;Costa del Sol;Terrestre;$ 800.000; $ 64.000 
+Melissa;Tejada;Cartagena;Femenino;Decameron;Aereo;$ 1.652.000; $ 247.800 
+Melissa;Bisbal;Santa Marta;Femenino;Sol Caribe;Terrestre;$ 650.000; $ 52.000 
+Melissa;Aristizabal;San Andrés;Femenino;Toné;Aereo;$ 850.000; $ 127.500 
+Mario;Pérez;San Andrés;Masculino;Decameron;Aereo;$ 900.000; $ 135.000 
+María;López;Cartagena;Femenino;Decameron;Aereo;$ 1.200.000; $ 180.000 
+Laura;Tejada;Eje Cafetero;Femenino;Las Orquideas;Aereo;$ 1.000.000; $ 150.000 
+Juan;Pérez;Santa Marta;Masculino;Sol Caribe;Terrestre;$ 600.000; $ 48.000 
+Juan;Montoya;San Andrés;Masculino;Decameron;Aereo;$ 900.000; $ 135.000 
+Juan;Bisbal;San Andrés;Masculino;Mar Azul;Aereo;$ 1.200.000; $ 180.000 
+David;Montoya;Amazonas;Masculino;La Selva;Aereo;$ 1.800.000; $ 270.000 
+David;López;Cartagena;Masculino;Costa del Sol;Terrestre;$ 650.000; $ 52.000 
+David;Agudelo;Santa Marta;Masculino;Sol Caribe;Terrestre;$ 750.000; $ 60.000 
+Daniela;Valencia;Eje Cafetero;Femenino;Finca Calarca;Terrestre;$ 500.000; $ 40.000 
+Daniela;Montoya;San Andrés;Femenino;Toné;Aereo;$ 1.500.000; $ 225.000 
+Carlos;Henao;Santa Marta;Masculino;Hilton;Aereo;$ 850.000; $ 127.500 
+Bibiana;Moreno;Amazonas;Femenino;El delfin rosado;Terrestre;$ 800.000; $ 64.000 
+Andrés;Bisbal;San Andrés;Masculino;Mar Azul;Aereo;$ 1.000.000; $ 150.000 
+Alberto;Plaza;Santa Marta;Masculino;Hilton;Aereo;$ 1.200.000; $ 180.000 
+Shakira;Mebarak;Amazonas;Femenino;El delfin rosado;Terrestre;$ 600.000; $ 48.000 
+Pedro;Pérez;Santa Marta;Masculino;Hilton;Terrestre;$ 800.000; $ 64.000 
+María;Aristizabal;Cartagena;Femenino;Costa del Sol;Terrestre;$ 550.000; $ 44.000 
+Laura;Mebarak;Amazonas;Femenino;La Selva;Aereo;$ 1.500.000; $ 225.000 
+David;Montoya;San Andrés;Masculino;Decameron;Aereo;$ 1.500.000; $ 225.000 
+David;Bisbal;San Andrés;Masculino;Toné;Aereo;$ 1.050.000; $ 157.500 
+Claudia;Lopera;Nuqui;Femenino;Sol y Mar;Aereo;$ 1.200.000; $ 180.000 
+Esteban;Aristizabal;San Andrés;Masculino;Mar Azul;Aereo;$ 1.000.000; $ 150.000 
+David;Civera;San Andrés;Masculino;Decameron;Aereo;$ 1.500.000; $ 225.000 
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
